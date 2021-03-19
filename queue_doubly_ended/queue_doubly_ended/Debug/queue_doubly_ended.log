@@ -1,0 +1,5 @@
+﻿  queue_doubly_ended.cpp
+c:\users\vipp\documents\visual studio 2017\projects\queue_doubly_ended\queue_doubly_ended\queue_doubly_ended.cpp(37): warning C4553: '==': result of expression not used; did you intend '='?
+c:\users\vipp\documents\visual studio 2017\projects\queue_doubly_ended\queue_doubly_ended\queue_doubly_ended.cpp(47): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\vipp\documents\visual studio 2017\projects\queue_doubly_ended\queue_doubly_ended\queue_doubly_ended.cpp(62): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  queue_doubly_ended.vcxproj -> C:\Users\vipp\Documents\Visual Studio 2017\Projects\queue_doubly_ended\Debug\queue_doubly_ended.exe

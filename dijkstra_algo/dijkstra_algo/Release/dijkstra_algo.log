@@ -1,0 +1,6 @@
+﻿  dijkstra_algo.cpp
+c:\users\vipp\documents\visual studio 2017\projects\dijkstra_algo\dijkstra_algo\dijkstra_algo.cpp(17): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\vipp\documents\visual studio 2017\projects\dijkstra_algo\dijkstra_algo\dijkstra_algo.cpp(18): error C2440: 'initializing': cannot convert from 'const char [4]' to 'char *'
+  c:\users\vipp\documents\visual studio 2017\projects\dijkstra_algo\dijkstra_algo\dijkstra_algo.cpp(18): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\users\vipp\documents\visual studio 2017\projects\dijkstra_algo\dijkstra_algo\dijkstra_algo.cpp(32): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: see declaration of 'getch'

@@ -1,0 +1,3 @@
+﻿  expression_reading.cpp
+c:\users\vipp\documents\visual studio 2017\projects\expression_reading\expression_reading\expression_reading.cpp(44): warning C4018: '<': signed/unsigned mismatch
+  expression_reading.vcxproj -> C:\Users\vipp\Documents\Visual Studio 2017\Projects\expression_reading\Debug\expression_reading.exe

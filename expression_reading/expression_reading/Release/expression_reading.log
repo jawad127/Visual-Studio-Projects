@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  expression_reading.cpp
+c:\users\vipp\documents\visual studio 2017\projects\expression_reading\expression_reading\expression_reading.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\vipp\documents\visual studio 2017\projects\expression_reading\expression_reading\expression_reading.cpp(72): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  expression_reading.vcxproj -> C:\Users\vipp\Documents\Visual Studio 2017\Projects\expression_reading\Release\expression_reading.exe

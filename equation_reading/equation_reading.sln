@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "equation_reading", "equation_reading\equation_reading.vcxproj", "{4C444D16-9463-4113-A098-3185E7CE619F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C444D16-9463-4113-A098-3185E7CE619F}.Debug|x64.ActiveCfg = Debug|x64
+		{4C444D16-9463-4113-A098-3185E7CE619F}.Debug|x64.Build.0 = Debug|x64
+		{4C444D16-9463-4113-A098-3185E7CE619F}.Debug|x86.ActiveCfg = Debug|Win32
+		{4C444D16-9463-4113-A098-3185E7CE619F}.Debug|x86.Build.0 = Debug|Win32
+		{4C444D16-9463-4113-A098-3185E7CE619F}.Release|x64.ActiveCfg = Release|x64
+		{4C444D16-9463-4113-A098-3185E7CE619F}.Release|x64.Build.0 = Release|x64
+		{4C444D16-9463-4113-A098-3185E7CE619F}.Release|x86.ActiveCfg = Release|Win32
+		{4C444D16-9463-4113-A098-3185E7CE619F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC8BBA2C-0ACE-4EBF-80AB-FD935A64372D}
+	EndGlobalSection
+EndGlobal

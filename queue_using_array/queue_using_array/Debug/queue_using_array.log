@@ -1,0 +1,3 @@
+﻿  queue_using_array.cpp
+c:\users\vipp\documents\visual studio 2017\projects\queue_using_array\queue_using_array\queue_using_array.cpp(57): warning C4715: 'Dequeue': not all control paths return a value
+  queue_using_array.vcxproj -> C:\Users\vipp\Documents\Visual Studio 2017\Projects\queue_using_array\Debug\queue_using_array.exe

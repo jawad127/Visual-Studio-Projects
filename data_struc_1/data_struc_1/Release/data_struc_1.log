@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  data_struc_1.cpp
+c:\users\vipp\documents\visual studio 2017\projects\data_struc_1\data_struc_1\data_struc_1.cpp(82): warning C4553: '==': result of expression not used; did you intend '='?
+  Generating code
+  All 15 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  data_struc_1.vcxproj -> C:\Users\vipp\Documents\Visual Studio 2017\Projects\data_struc_1\Release\data_struc_1.exe

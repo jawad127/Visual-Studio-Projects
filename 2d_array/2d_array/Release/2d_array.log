@@ -1,0 +1,8 @@
+﻿  2d_array.cpp
+c:\users\vipp\documents\visual studio 2017\projects\2d_array\2d_array\2d_array.cpp(281): warning C4101: 'x': unreferenced local variable
+  Generating code
+  0 of 59 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  2d_array.vcxproj -> C:\Users\vipp\Documents\Visual Studio 2017\Projects\2d_array\Release\2d_array.exe

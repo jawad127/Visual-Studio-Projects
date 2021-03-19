@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  queue_1.cpp
+c:\users\vipp\documents\visual studio 2017\projects\queue_1\queue_1\queue_1.cpp(18): error C2679: binary '=': no operator found which takes a right-hand operand of type 'int' (or there is no acceptable conversion)
+  c:\users\vipp\documents\visual studio 2017\projects\queue_1\queue_1\queue_1.cpp(13): note: could be 'queue::node &queue::node::operator =(queue::node &&)'
+  c:\users\vipp\documents\visual studio 2017\projects\queue_1\queue_1\queue_1.cpp(13): note: or       'queue::node &queue::node::operator =(const queue::node &)'
+  c:\users\vipp\documents\visual studio 2017\projects\queue_1\queue_1\queue_1.cpp(18): note: while trying to match the argument list '(queue::node, int)'
+c:\users\vipp\documents\visual studio 2017\projects\queue_1\queue_1\queue_1.cpp(19): error C2679: binary '=': no operator found which takes a right-hand operand of type 'int' (or there is no acceptable conversion)
+  c:\users\vipp\documents\visual studio 2017\projects\queue_1\queue_1\queue_1.cpp(13): note: could be 'queue::node &queue::node::operator =(queue::node &&)'
+  c:\users\vipp\documents\visual studio 2017\projects\queue_1\queue_1\queue_1.cpp(13): note: or       'queue::node &queue::node::operator =(const queue::node &)'
+  c:\users\vipp\documents\visual studio 2017\projects\queue_1\queue_1\queue_1.cpp(19): note: while trying to match the argument list '(queue::node, int)'
+c:\users\vipp\documents\visual studio 2017\projects\queue_1\queue_1\queue_1.cpp(23): error C2065: 'arr': undeclared identifier
+c:\users\vipp\documents\visual studio 2017\projects\queue_1\queue_1\queue_1.cpp(23): error C2675: unary '--': 'queue::node' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\vipp\documents\visual studio 2017\projects\queue_1\queue_1\queue_1.cpp(27): error C2065: 'arr': undeclared identifier
+c:\users\vipp\documents\visual studio 2017\projects\queue_1\queue_1\queue_1.cpp(27): error C2675: unary '++': 'queue::node' does not define this operator or a conversion to a type acceptable to the predefined operator

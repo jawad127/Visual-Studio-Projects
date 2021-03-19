@@ -1,0 +1,4 @@
+﻿  question no 3.cpp
+c:\users\vipp\documents\visual studio 2017\projects\question no 3\question no 3\question no 3.cpp(21): error C2371: 'test<X>::count': redefinition; different basic types
+  c:\users\vipp\documents\visual studio 2017\projects\question no 3\question no 3\question no 3.cpp(11): note: see declaration of 'test<X>::count'
+c:\users\vipp\documents\visual studio 2017\projects\question no 3\question no 3\question no 3.cpp(21): error C2059: syntax error: '='

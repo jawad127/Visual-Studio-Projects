@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  post_fix.cpp
+c:\users\vipp\documents\visual studio 2017\projects\post_fix\post_fix\post_fix.cpp(15): error C2143: syntax error: missing ';' before 'for'
+c:\users\vipp\documents\visual studio 2017\projects\post_fix\post_fix\post_fix.cpp(15): warning C4018: '<': signed/unsigned mismatch

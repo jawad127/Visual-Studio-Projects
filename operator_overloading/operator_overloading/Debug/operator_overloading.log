@@ -1,0 +1,14 @@
+﻿  operator_overloading.cpp
+c:\users\vipp\documents\visual studio 2017\projects\operator_overloading\operator_overloading\operator_overloading.cpp(43): error C2146: syntax error: missing ';' before identifier 'a'
+c:\users\vipp\documents\visual studio 2017\projects\operator_overloading\operator_overloading\operator_overloading.cpp(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\vipp\documents\visual studio 2017\projects\operator_overloading\operator_overloading\operator_overloading.cpp(43): error C2059: syntax error: ':'
+c:\users\vipp\documents\visual studio 2017\projects\operator_overloading\operator_overloading\operator_overloading.cpp(47): error C2146: syntax error: missing ';' before identifier 's1'
+c:\users\vipp\documents\visual studio 2017\projects\operator_overloading\operator_overloading\operator_overloading.cpp(47): error C2065: 's1': undeclared identifier
+c:\users\vipp\documents\visual studio 2017\projects\operator_overloading\operator_overloading\operator_overloading.cpp(47): error C2065: 's3': undeclared identifier
+c:\users\vipp\documents\visual studio 2017\projects\operator_overloading\operator_overloading\operator_overloading.cpp(49): error C2065: 's1': undeclared identifier
+c:\users\vipp\documents\visual studio 2017\projects\operator_overloading\operator_overloading\operator_overloading.cpp(51): error C2065: 's3': undeclared identifier
+c:\users\vipp\documents\visual studio 2017\projects\operator_overloading\operator_overloading\operator_overloading.cpp(51): error C2065: 's1': undeclared identifier
+c:\users\vipp\documents\visual studio 2017\projects\operator_overloading\operator_overloading\operator_overloading.cpp(52): error C2065: 's3': undeclared identifier
+c:\users\vipp\documents\visual studio 2017\projects\operator_overloading\operator_overloading\operator_overloading.cpp(53): error C2065: 's3': undeclared identifier
+c:\users\vipp\documents\visual studio 2017\projects\operator_overloading\operator_overloading\operator_overloading.cpp(53): error C2065: 's1': undeclared identifier
+c:\users\vipp\documents\visual studio 2017\projects\operator_overloading\operator_overloading\operator_overloading.cpp(54): error C2065: 's3': undeclared identifier

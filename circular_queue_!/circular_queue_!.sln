@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "circular_queue_!", "circular_queue_!\circular_queue_!.vcxproj", "{CEA4DB93-7771-4E10-9BC6-429A7EDDE2FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEA4DB93-7771-4E10-9BC6-429A7EDDE2FE}.Debug|x64.ActiveCfg = Debug|x64
+		{CEA4DB93-7771-4E10-9BC6-429A7EDDE2FE}.Debug|x64.Build.0 = Debug|x64
+		{CEA4DB93-7771-4E10-9BC6-429A7EDDE2FE}.Debug|x86.ActiveCfg = Debug|Win32
+		{CEA4DB93-7771-4E10-9BC6-429A7EDDE2FE}.Debug|x86.Build.0 = Debug|Win32
+		{CEA4DB93-7771-4E10-9BC6-429A7EDDE2FE}.Release|x64.ActiveCfg = Release|x64
+		{CEA4DB93-7771-4E10-9BC6-429A7EDDE2FE}.Release|x64.Build.0 = Release|x64
+		{CEA4DB93-7771-4E10-9BC6-429A7EDDE2FE}.Release|x86.ActiveCfg = Release|Win32
+		{CEA4DB93-7771-4E10-9BC6-429A7EDDE2FE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DCA1009-2DC9-4C74-BBA8-3283C11758F7}
+	EndGlobalSection
+EndGlobal

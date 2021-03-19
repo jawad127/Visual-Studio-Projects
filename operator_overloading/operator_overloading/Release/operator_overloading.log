@@ -1,0 +1,5 @@
+﻿  operator_overloading.cpp
+c:\users\vipp\documents\visual studio 2017\projects\operator_overloading\operator_overloading\operator_overloading.cpp(31): error C2440: 'return': cannot convert from 'int' to 'sum'
+  c:\users\vipp\documents\visual studio 2017\projects\operator_overloading\operator_overloading\operator_overloading.cpp(31): note: No constructor could take the source type, or constructor overload resolution was ambiguous
+c:\users\vipp\documents\visual studio 2017\projects\operator_overloading\operator_overloading\operator_overloading.cpp(39): error C2440: 'return': cannot convert from 'int' to 'sum'
+  c:\users\vipp\documents\visual studio 2017\projects\operator_overloading\operator_overloading\operator_overloading.cpp(39): note: No constructor could take the source type, or constructor overload resolution was ambiguous
